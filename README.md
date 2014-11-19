@@ -1,4 +1,4 @@
 study_linux
 ===========
 
-* Find somthing in the study_linux wiki
+* Find something in the study_linux wiki
